@@ -1,1 +1,1 @@
-# busec
+# Bayero University student Entreprenuers Community
